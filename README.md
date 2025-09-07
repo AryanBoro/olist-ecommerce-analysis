@@ -24,10 +24,6 @@ This is a Power BI dashboard that provides insights into the sales performance o
 3.  The Health & Beauty and Watches & Gifts categories are among the top revenue drivers.
 
 ## 📁 Files in this Repository
-- `OLISTPROJECT.pbix` - The main Power BI Desktop file.
 - `project.ss.png` - A screenshot of the dashboard.
 
-## ℹ️ How to Use
-1.  Download the `.pbix` file.
-2.  Open it with **Power BI Desktop**.
-3.  Interact with the filters and slicers to explore the data dynamically.
+
