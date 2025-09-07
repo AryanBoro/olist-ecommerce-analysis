@@ -14,8 +14,9 @@ This is a Power BI dashboard that provides insights into the sales performance o
 - **Languages:** DAX, M (Power Query)
 - **Data Source:** [Olist E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-## 📸 Dashboard Preview
-(project.ss.png)
+# Dashboard Preview
+
+![Dashboard Screenshot](project.ss.png)
 
 ## 🔍 Key Insights
 1.  Credit card is the most popular payment method, constituting over 78% of total revenue.
